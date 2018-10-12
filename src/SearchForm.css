@@ -1,0 +1,22 @@
+.search {
+	width: 400px;
+	margin: 20px auto;
+}
+.search input {
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+	background: #DCDCDC;
+	margin-right: 20px;
+}
+.search input:hover {
+	background: #87CEFA;
+}
+.search button {
+	background-color: blue;
+	background: #DCDCDC;
+	border-radius: 5px;
+	padding: 5px 10px 5px 10px;
+}
+.search button:hover {
+	background: #87CEFA;
+}
